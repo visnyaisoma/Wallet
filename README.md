@@ -1,2 +1,3 @@
 # AndroidWallet
- 1. beadandó
+1. project, using shake detection
+
